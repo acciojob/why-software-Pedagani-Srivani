@@ -1,4 +1,5 @@
 //your code here
+<!DOCTYPE html>
 <html>
 
 <head>
